@@ -1,0 +1,1 @@
+Mudra: A real-time Indian Sign Language (ISL) recognition engine. This project leverages computer vision and machine learning to interpret hand gestures from a live video stream and translate them into written text.
